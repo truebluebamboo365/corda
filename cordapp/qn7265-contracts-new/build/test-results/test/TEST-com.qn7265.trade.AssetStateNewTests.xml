@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qn7265.trade.AssetStateNewTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-01T01:37:49" hostname="ip-172-31-36-138" time="0.011">
+  <properties/>
+  <testcase name="ownerIsParticipant" classname="com.qn7265.trade.AssetStateNewTests" time="0.004"/>
+  <testcase name="isFungibleAsset" classname="com.qn7265.trade.AssetStateNewTests" time="0.0"/>
+  <testcase name="hasOwnerFieldOfCorrectType" classname="com.qn7265.trade.AssetStateNewTests" time="0.0"/>
+  <testcase name="isOwnableAsset" classname="com.qn7265.trade.AssetStateNewTests" time="0.001"/>
+  <testcase name="hasAssetAmountFieldOfCorrectType" classname="com.qn7265.trade.AssetStateNewTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
